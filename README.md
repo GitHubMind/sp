@@ -3,7 +3,7 @@
 因为没钱买动态代理，所以只能丢在服务器龟速爬行
 
 
-http://go.gzyezi.top/swagger/index.html#/  查看-> 可以使用大致的api 查询我本地爬行的。
+http://go.gzyezi.top/swagger/index.html#/(服务器停用了）  查看-> 可以使用大致的api 查询我本地爬行的。
 
 以下是结构图
 catalog
